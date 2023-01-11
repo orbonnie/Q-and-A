@@ -1,1 +1,0 @@
-ssh -i "/Users/bonnieowens/Desktop/SDC/Q-and-A/pem/FECKey.pem" ubuntu@ec2-3-209-178-20.compute-1.amazonaws.com
